@@ -1,0 +1,29 @@
+<resources>
+
+
+    <string-array name="select">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB_</item>
+        <item>O+</item>
+        <item>O-</item>
+
+    </string-array>
+
+
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="btn_display">Confirm</string>
+
+    <string name="app_name">BLOOD_APP</string>
+    <string name="title_activity_navigater">Navigater</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
